@@ -1,2 +1,3 @@
 # AutoPkgr
 AutoUpdate
+readme changes
